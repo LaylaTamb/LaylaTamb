@@ -1,15 +1,9 @@
 <div align="center">
-  <h1 align="center">Olá, me chamo Layla! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1 align="center">Olá, me chamo Layla!</h1>
 
   <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Analista+de+Dados+J%C3%BAnior;Desenvolvedor+Python;Business+Intelligence;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <p align="center">
-    Sou estudante de <b>Engenharia de Software na FIAP</b> busco transformar dados em soluções.<br>
-    Tenho experiência prática em <b>Business Intelligence</b>, criando automações com Python e dashboards estratégicos.
+    Sou estudante de <b>Engenharia de Software na FIAP</b>
+    Experiência prática em <b>Business Intelligence</b>, criando automações com Python e dashboards estratégicos.
   </p>
 
   <br>
@@ -26,7 +20,6 @@
 
   <p>
     <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik" />
-    <img src="https://img.shields.io/badge/Azure_Boards-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 
@@ -35,8 +28,7 @@
 ---
 
 <div align="center">
-  <h3>📫 Vamos conversar?</h3>
-  <p>Disponível para novos desafios em Dados e Desenvolvimento.</p>
+  <h3>📫 Disponivel em:</h3>
 
   <a href="https://www.linkedin.com/in/layla-tambellini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
